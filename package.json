@@ -1,0 +1,15 @@
+{
+  "name": "readme-template",
+  "version": "1.0.0",
+  "description": "This is a README generator using Node. This generator makes it easier to create a README by having a template ready for you.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
